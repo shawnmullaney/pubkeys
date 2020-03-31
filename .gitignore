@@ -1,2 +1,4 @@
 *.key
 *.priv
+id_*
+!id*.pub
